@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zizada_v2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_activity2">MyActivity2</string>
+    <string name="a2_Button_Ok">OKAY</string>
+    <string name="a1_name_zizada">Zizada</string>
+    <string name="a1_Button1">new account</string>
+    <string name="a2_new_name">Bitte Namen eingeben und mit OKAY bestätigen.</string>
+    <string name="title_activity_my_activity3">MyActivity3</string>
+    <string name="text_statistik">STATISTIK</string>
+    <string name="Button_Credit">Credit</string>
+    <string name="Button_Play">PLAY</string>
+    <string name="Difficulty_1">Easy</string>
+    <string name="Difficulty_2">Medium</string>
+    <string name="Difficulty_3">Hard</string>
+    <string name="Difficulty_4">Master</string>
+    <string name="Difficulty_5">God</string>
+    <string name="Text_chose_level">Schwierigkeit auswählen</string>
+    <string name="title_activity_activity_my_activity_4_credits">activity_my_activity_4_credits</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Text_Credit">All rights reserved!\nRainrunner Studios! 2014\nSpongebob Schwammkopf\nMy PC\nMy M0m\nMy ISP\nMy best Friend MEOW\n ALLE YOLO SWAG0r</string>
+
+</resources>
